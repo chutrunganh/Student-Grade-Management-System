@@ -1,0 +1,9 @@
+#ignore all data file (.TXT or .txt)
+*.TXT
+*.txt
+#ignore all excutable file when running
+*.exe
+#ignore Files/ Folder to make folder run as project in CLion
+.idea
+cmake-build-debug
+CMakeLists.txt
