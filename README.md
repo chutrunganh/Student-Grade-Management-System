@@ -10,7 +10,7 @@
 - Calculate final grades and ratings based on component points.
 - Sort grade records in decreasing order by final grade.
 - Find students with final grades equal to a specified value in the _**Grades List**_.
-- Read and write data of all _** Lists**_ to corresponding files.
+- Read and write data of all _**Lists**_ to corresponding files.
 
 _(For a full detailed explanation of features and a step-by-step guide on how the program works, please refer to the project's Wiki.)_
 
